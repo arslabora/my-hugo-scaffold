@@ -1,0 +1,14 @@
+{
+  "name": "liuteriadautore-website",
+  "version": "1.0.0",
+  "description": "Source project which manage the developing, build and deploy of liuteriadautore.com website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Spada",
+  "license": "ISC",
+  "devDependencies": {
+    "hugo-bin": "^0.68.0"
+  }
+}

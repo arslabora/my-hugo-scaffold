@@ -1,0 +1,44 @@
+# ---------------------------------- render ---------------------------------- #
+canonifyURLs: true
+uglyurls: false
+disableAliases: false
+disableHugoGeneratorInject: false
+disableKinds: []
+disableLiveReload: false
+enableEmoji: true
+enableGitInfo: false
+ignoreCache: true
+ignoreFiles: []
+metaDataFormat: "yaml"
+verbose: true
+watch: true
+
+# ----------------------------------- build ---------------------------------- #
+cleanDestinationDir: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# ---------------------------------------------------------------------------- #
+#                                  Source Tree                                 #
+# ---------------------------------------------------------------------------- #
+
+# ------------------------ maitenance and development ------------------------ #
+archetypeDir: "config/_types"
+
+# --------------------------------- includes --------------------------------- #
+assetDir: "include/assets"
+staticDir: "include/static"
+
+# ------------ all site related content folders lives under 'site' ------------ #
+i18nDir: "site/locales"
+contentDir: "site/content"
+dataDir: "site/data"
+layoutDir: "site/layouts"
+
+
+# ---------------------------------- output ---------------------------------- #
+publishDir: "../build"
+
+# ---------------------------------- themes ---------------------------------- #
+themesDir: "include/themes"
