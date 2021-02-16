@@ -15,7 +15,7 @@
     "hugo:public": "npx hugo -e public --cleanDestinationDir --gc --enableGitInfo --minify",    
     "clean:build": "rm -rf build/*",
     "clean:test": "rm -rf test/*",
-    "clean:publish": "rm -rf public/*",
+    "clean:public": "rm -rf public/*",
     "clean:all": "rm -rf resources/* & npm run clean:build & npm run clean:test & npm run clean:public",
     "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'"
   },
