@@ -23,7 +23,7 @@ This folder will receive the hugo static build during the development stage. It'
 ##### deploy
 Someone like to have a staging building, which can be post processed by tools, or for the most exotic and clear needs. That why this folder exists.
 
-##### public
+##### publish
 This should be the final hugo output; anyway, if you use post-processing tools, this is where they'll put their output. In both situation, this is the content which should be uploaded to the server.
 
 ##### src
@@ -52,3 +52,11 @@ Finally, the site folder, where content sources lives:
 - **data**: data folder
 - **layouts**: setup and overrides for content types
 - **locales**: translations ('*i18n*' is just horrible, but it's the same...)
+
+### NPM Tasks
+In the master branch there are only a few tasks preconfigured:
+- **test**, which run hugo in dryrun, just to check if the configuration is correct
+- **hugo:serve**, which run hugo in live reload/watching mode
+- **hugo:build**, which build a local static rendering of the website, for inspection purpouse
+- **hugo:deploy**, which populate the /deploy folder
+- **hugo:publish**, which, finally, produce the final render of the website, ready to be published in your server root.
