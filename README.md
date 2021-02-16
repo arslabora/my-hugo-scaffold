@@ -36,9 +36,9 @@ This contain hugo sources, as well as assets, images and whatever will contribut
 In my hugo scaffold, configuration is spread on more than on file, and have three overrides for the three output folders you saw in the root of the repo.
 - **_default**: it contains all configuration which are needed to build the website.
 - **_types**: this is what usually is the archetypes folder. I found strange to have it mixed with the content, as it's mainly a collection of presets to create new content. In my understanding, it belong to the configuration of the site, so it appears here.
-- **development**: here we can overrides everything is needed to produce our local, static rendering.
-- **production**: here we define final overrides, such as base url and everything must be adjusted for the site to be correctly served.
-- **staging**: this is an optional folder. It shoudl contains overrides needed for the deploy stage, if needed.
+- **build**: here we can overrides everything is needed to produce our local, static rendering.
+- **deploy**: this is an optional folder. It shoudl contains overrides needed for the deploy stage, if needed.
+- **publish**: here we define final overrides, such as base url and everything must be adjusted for the site to be correctly served.
 
 ##### include
 Under include we'll find:

@@ -1,0 +1,20 @@
+# ==============================================================================
+# Configuration
+# ==============================================================================
+title: "A great title!"
+theme: ""
+
+# ==============================================================================
+# Locales
+# ==============================================================================
+defaultContentLanguage: "en"
+defaultContentLanguageInSubDir: true
+enableMissingTranslationPlaceholders: false
+hasCJKLanguage: false
+removePathAccents: true
+
+# ==============================================================================
+# Hugo Built-in Features
+# ==============================================================================
+disableKinds:
+enableInlineShortcodes: true

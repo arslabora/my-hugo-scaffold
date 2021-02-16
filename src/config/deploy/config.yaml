@@ -1,0 +1,11 @@
+# ==============================================================================
+# DEPLOY OVERRIDES
+# ==============================================================================
+baseURL: https://liuteriadautore.github.io
+googleAnalytics: ""
+
+enableGitInfo: false
+verbose: true
+buildDrafts: false
+buildFuture: false
+publishDir: "deploy"

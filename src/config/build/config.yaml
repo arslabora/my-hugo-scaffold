@@ -1,0 +1,10 @@
+# ==============================================================================
+# BUILD OVERRIDES
+# ==============================================================================
+baseURL: http://localhost:1337/
+
+enableGitInfo: false
+verbose: true
+buildDrafts: true
+buildFuture: true
+publishDir: "build"

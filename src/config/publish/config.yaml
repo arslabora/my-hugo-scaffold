@@ -1,0 +1,11 @@
+# ==============================================================================
+# PUBLISH OVERRIDES
+# ==============================================================================
+baseURL: https://yourwebsiteURL
+googleAnalytics: ""
+
+enableGitInfo: true
+verbose: false
+buildDrafts: false
+buildFuture: false
+publishDir: "publish"
