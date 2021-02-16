@@ -5,9 +5,12 @@
 This scaffold allow for a clean, organised content management, separated from the main configuration. It's managed from the very beginning by npm, to allow for remote building and deploying with no troubles due to versions mismatch or breaking changes. Being coupled by the node ecosystem, it also allow to extend the already brilliant hugo pipes with complementary tasks.
 
 #### Folders Tree
-When first cloned, the scaffold folders tree should appear as the following:
 
-- build/- 
+![Source tree](.github/PICS/source-tree.png)
+
+When first cloned, the scaffold folders tree should appear as the above image (for the gorgeous matching icons, just install [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)):
+
+- build/
 - public/
 - src/
 - test/
@@ -33,7 +36,7 @@ This contain hugo sources, as well as assets, images and whatever will contribut
 Someone like to have a staging building, which can be post processed by tools, or for the most exotic and clever needs. That why this folder exists.
 
 ###### src/config
-In my hugo scaffold, configuration is spread on more than on file, and have three overrides for the three output folders you saw in the root of the repo.
+In my hugo scaffold, configuration is spread on more than on file - all of them YAML, which I found a good compromise between the too much redundant TOML and the slighlty too machine friendly JSON - and have three overrides for the three output folders you saw in the root of the repo.
 - **_default**: it contains all configuration which are needed to build the website.
 - **_types**: this is what usually is the archetypes folder. I found strange to have it mixed with the content, as it's mainly a collection of presets to create new content. In my understanding, it belong to the configuration of the site, so it appears here.
 - **build**: here we can overrides everything is needed to produce our local, static rendering.
