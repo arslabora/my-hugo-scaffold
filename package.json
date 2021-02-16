@@ -13,6 +13,6 @@
   "author": "Andrea Spada",
   "license": "ISC",
   "devDependencies": {
-    "hugo-bin": "^0.68.0"
+    "hugo-extended": "^0.80.0"
   }
 }
