@@ -8,7 +8,8 @@
     "hugo:serve": "npx hugo server -D",
     "hugo:build": "npx hugo -e development --cleanDestinationDir -D -F",
     "hugo:deploy": "npx hugo -e staging --cleanDestinationDir --gc",
-    "hugo:publish": "npx hugo -e production --cleanDestinationDir --gc --enableGitInfo "
+    "hugo:publish": "npx hugo -e production --cleanDestinationDir --gc --enableGitInfo ",
+    "hugo:clean": "rm -rf build/* deploy/* resources/*"
   },
   "author": "Andrea Spada",
   "license": "ISC",
