@@ -14,6 +14,7 @@
   "author": "Andrea Spada",
   "license": "ISC",
   "devDependencies": {
-    "hugo-extended": "^0.80.0"
+    "hugo-extended": "^0.80.0",
+    "parallelshell": "^3.0.2"
   }
 }
