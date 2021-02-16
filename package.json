@@ -4,7 +4,11 @@
   "description": "Source project which manage the developing, build and deploy of liuteriadautore.com website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx hugo --renderToMemory",
+    "hugo:serve": "npx hugo server -D",
+    "hugo:build": "npx hugo -e development --cleanDestinationDir -D -F",
+    "hugo:deploy": "npx hugo -e staging --cleanDestinationDir --gc",
+    "hugo:publish": "npx hugo -e production --cleanDestinationDir --gc --enableGitInfo "
   },
   "author": "Andrea Spada",
   "license": "ISC",
