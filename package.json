@@ -4,7 +4,7 @@
   "description": "Source project which manage the developing, build and deploy of liuteriadautore.com website",
   "main": "index.js",
   "scripts": {
-    "test": "npx hugo --renderToMemory",
+    "test": "npx hugo check & npx hugo --renderToMemory",
     "hugo:serve": "npx hugo server -D",
     "hugo:build": "npx hugo -e development --cleanDestinationDir -D -F",
     "hugo:deploy": "npx hugo -e staging --cleanDestinationDir --gc",
