@@ -1,1 +1,26 @@
 # --------------------------- languages definition --------------------------- #
+en:
+  languageName: "English"
+  locale: "en-GB"
+  weight: 1
+  
+pt:
+  languageName: "Portugues"
+  locale: "pt-BR"
+  weight: 2
+  
+it:
+  languageName: "Italiano"
+  locale: "it-IT"
+  weight: 3
+  
+es:
+  languageName: "Español"
+  locale: "es-ES"
+  weight: 4
+  
+fr:
+  languageName: "Français"
+  locale: "fr-FR"
+  weight: 5
+  
