@@ -1,12 +1,12 @@
 {
-  "name": "liuteriadautore-website",
+  "name": "my-hugo-scaffold",
   "version": "1.0.0",
-  "description": "Source project which manage the developing, build and deploy of liuteriadautore.com website",
+  "description": "A npm co-managed hugo scaffold",
   "main": "index.js",
   "scripts": {
     "test": "npx hugo check & npx hugo --renderToMemory",
     "h:s": "npm run hugo:serve",
-    "hugo:serve": "npx hugo serve -D",
+    "hugo:serve": "npx hugo serve --buildDrafts --disableFastRender",
     "h:b": "npm run hugo:build",
     "hugo:build": "npx hugo -e build --cleanDestinationDir -D -F",    
     "h:t": "npm run hugo:test",
