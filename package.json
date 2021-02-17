@@ -4,25 +4,25 @@
   "description": "A npm co-managed hugo scaffold",
   "main": "index.js",
   "scripts": {
-    "test": "npx hugo check & npx hugo --renderToMemory",
+    "check": "npx hugo --configDir src/config --renderToMemory ",
     "h:s": "npm run hugo:serve",
-    "hugo:serve": "npx hugo serve --buildDrafts --disableFastRender",
+    "hugo:serve": "npx hugo --configDir src/config serve --buildDrafts --disableFastRender",
     "h:b": "npm run hugo:build",
-    "hugo:build": "npx hugo -e build --cleanDestinationDir -D -F",    
+    "hugo:build": "npx hugo --configDir src/config -e build --cleanDestinationDir -D -F",
     "h:t": "npm run hugo:test",
-    "hugo:test": "npx hugo -e test --cleanDestinationDir --gc",    
+    "hugo:test": "npx hugo --configDir src/config -e test --cleanDestinationDir --gc",
     "h:p": "npm run hugo:public",
-    "hugo:public": "npx hugo -e public --cleanDestinationDir --gc --enableGitInfo --minify",    
-    "clean:build": "rm -rf build/*",
-    "clean:test": "rm -rf test/*",
-    "clean:public": "rm -rf public/*",
-    "clean:all": "rm -rf resources/* & npm run clean:build & npm run clean:test & npm run clean:public",
+    "hugo:public": "npx hugo --configDir src/config -e public --cleanDestinationDir --gc --enableGitInfo --minify",
+    "clean:build": "rimraf build/*",
+    "clean:test": "rimraf test/*",
+    "clean:public": "rimraf public/*",
+    "clean:all": "rimraf resources/* & npm run clean:build & npm run clean:test & npm run clean:public",
     "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'"
   },
   "author": "Andrea Spada",
   "license": "ISC",
   "devDependencies": {
     "hugo-extended": "^0.80.0",
-    "parallelshell": "^3.0.2"
+    "rimraf": "^3.0.2"
   }
 }
