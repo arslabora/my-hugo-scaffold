@@ -4,26 +4,31 @@
   "description": "A npm co-managed hugo scaffold",
   "main": "index.js",
   "scripts": {
-    "test": "npx hugo --configDir src/config check",
-    "hugo:check": "npx hugo --configDir src/config --renderToMemory & echo ok!",
-    "h:s": "npm run hugo:serve",
-    "hugo:serve": "npx hugo --configDir src/config serve --buildDrafts --disableFastRender",
-    "h:b": "npm run hugo:build",
-    "hugo:build": "npx hugo --configDir src/config -e build --cleanDestinationDir -D -F -v & echo Done! The development build is available under /build.",
-    "h:t": "npm run hugo:test",
-    "hugo:test": "npx hugo --configDir src/config -e test --cleanDestinationDir --gc & echo Done! Check the build under /test.",
-    "h:p": "npm run hugo:public",
-    "hugo:public": "npx hugo --configDir src/config -e public --cleanDestinationDir --gc --enableGitInfo --minify & echo Done! Your website is now fully rendered under /public.",
+    "test": "hugo version && hugo --configDir src/config check",
+    "hugo:check": "hugo --configDir src/config --renderToMemory & echo ok!",
+    "hugo:serve": "hugo --configDir src/config serve --buildDrafts --disableFastRender",
+    "hugo:build": "hugo --configDir src/config -e build --cleanDestinationDir -D -F -v & echo Done! The development build is available under /build.",
+    "hugo:test": "hugo --configDir src/config -e test --cleanDestinationDir --gc & echo Done! Check the build under /test.",
+    "hugo:public": "hugo --configDir src/config -e public --cleanDestinationDir --gc --enableGitInfo --minify & echo Done! Your website is now fully rendered under /public.",
     "clean:build": "rimraf build/*",
     "clean:test": "rimraf test/*",
     "clean:public": "rimraf public/*",
     "clean:all": "rimraf resources/* & npm run clean:build & npm run clean:test & npm run clean:public",
-    "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'"
+    "h:s": "npm run hugo:serve",
+    "h:b": "npm run hugo:build",
+    "h:t": "npm run hugo:test",
+    "h:p": "npm run hugo:public",
+    "c:b": "npm run clean:build",
+    "c:t": "npm run clean:test",
+    "c:p": "npm run clean:public",
+    "c:a": "npm run clean:all",
+    "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'",
+    "update:packages": "npm update --save-dev && npm update --save"
   },
   "author": "Andrea Spada",
   "license": "ISC",
   "devDependencies": {
-    "hugo-extended": "^0.80.0",
+    "hugo-extended": "^0.81.0",
     "rimraf": "^3.0.2"
   }
 }
