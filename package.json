@@ -23,7 +23,7 @@
     "c:p": "npm run clean:public",
     "c:a": "npm run clean:all",
     "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'",
-    "update:packages": "npm update --save-dev && npm update --save"
+    "upgrade": "yarn upgrade && yarn autoclean --force"
   },
   "author": "Andrea Spada",
   "license": "ISC",
