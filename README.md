@@ -15,7 +15,7 @@ When first cloned, the scaffold folders tree should appear as the above image (f
 
 - .github/ 
 - src/
-- www/
+ server/
 - .gitignore
 - config.yaml
 - package-lock.json
@@ -24,6 +24,17 @@ When first cloned, the scaffold folders tree should appear as the above image (f
 
 #### .github
 Files related to the github repo.
+
+#### server/build
+This folder will receive the hugo static build during the development stage. It's mainly to check what's really is copied to the server root, and how. 
+
+#### server/publish
+This should be the final hugo output; anyway, if you use post-processing tools, this is where they'll put their output. In both situation, this is the content which should be uploaded to the server.
+
+
+#### server/test
+Someone like to have a staging building, which can be post processed by tools, or for the most exotic and clever needs. That why this folder exists.
+
 
 ##### src
 This contain hugo sources, as well as assets, images and whatever will contribute to the website. It's organized in, at least, three main folders:
@@ -51,17 +62,6 @@ Finally, the site folder, where content sources lives:
 - **data**: data folder
 - **layouts**: setup and overrides for content types
 - **locales**: translations ('*i18n*' is just horrible, but it's the same...)
-
-##### www/build
-This folder will receive the hugo static build during the development stage. It's mainly to check what's really is copied to the server root, and how. 
-
-##### www/publish
-This should be the final hugo output; anyway, if you use post-processing tools, this is where they'll put their output. In both situation, this is the content which should be uploaded to the server.
-
-
-##### www/test
-Someone like to have a staging building, which can be post processed by tools, or for the most exotic and clever needs. That why this folder exists.
-
 
 ### NPM Tasks
 In the master branch there are some tasks preconfigured:

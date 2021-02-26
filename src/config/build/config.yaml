@@ -8,4 +8,4 @@ enableGitInfo: false
 verbose: true
 buildDrafts: true
 buildFuture: true
-publishDir: "www/build"
+publishDir: "server/build"
