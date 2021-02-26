@@ -3,7 +3,6 @@ canonifyURLs: true
 uglyurls: false
 disableAliases: false
 disableHugoGeneratorInject: false
-disableKinds: []
 disableLiveReload: false
 enableEmoji: true
 enableGitInfo: false
@@ -39,5 +38,5 @@ staticDir: "src/site/static"
 
 
 # ---------------------------------- output ---------------------------------- #
-publishDir: "build"
+publishDir: "www/build"
 resourceDir: "resources"

@@ -1,11 +1,11 @@
 # ==============================================================================
 # DEPLOY OVERRIDES
 # ==============================================================================
-baseURL: https://liuteriadautore.github.io
+baseURL: https://yourVeryCoolDomain
 googleAnalytics: ""
 
 enableGitInfo: false
 verbose: true
 buildDrafts: false
 buildFuture: false
-publishDir: "test"
+publishDir: "www/test"

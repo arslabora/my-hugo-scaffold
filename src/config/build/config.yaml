@@ -1,10 +1,11 @@
 # ==============================================================================
 # BUILD OVERRIDES
 # ==============================================================================
-baseURL: http://localhost:1337/
+# To nspect the render with a local server; changes port accordingly
+baseURL: http://localhost:1337/ 
 
 enableGitInfo: false
 verbose: true
 buildDrafts: true
 buildFuture: true
-publishDir: "build"
+publishDir: "www/build"
