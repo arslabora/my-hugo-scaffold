@@ -22,13 +22,12 @@
     "c:t": "npm run clean:test",
     "c:p": "npm run clean:public",
     "c:a": "npm run clean:all",
-    "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'",
-    "update:packages": "npm update --save-dev && npm update --save"
+    "deploy": "echo 'commit the production build and push to github. Or any other publishing command...'"    
   },
   "author": "Andrea Spada",
   "license": "ISC",
   "devDependencies": {
-    "hugo-extended": "^0.81.0",
+    "hugo-extended": "^0.82.0",
     "rimraf": "^3.0.2"
   }
 }

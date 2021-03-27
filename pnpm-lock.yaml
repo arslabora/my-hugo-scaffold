@@ -1,5 +1,5 @@
 devDependencies:
-  hugo-extended: 0.81.0
+  hugo-extended: 0.82.0
   rimraf: 3.0.2
 lockfileVersion: 5.2
 packages:
@@ -505,7 +505,7 @@ packages:
     dev: true
     resolution:
       integrity: sha512-5ai2iksyV8ZXmnZhHH4rWPoxxistEexSi5936zIQ1bnNTW5VnA85B6P/VpXiRM017IgRvb2kKo1a//y+0wSp3w==
-  /hugo-extended/0.81.0:
+  /hugo-extended/0.82.0:
     dependencies:
       bin-wrapper: 4.1.0
     dev: true
@@ -514,7 +514,7 @@ packages:
     hasBin: true
     requiresBuild: true
     resolution:
-      integrity: sha512-DqoSigzrlTlex9rVFtRb6uCnMOq7AAOYIboTREGMIzvxAtIcBwJp5MIzzMn21gNUA7QuFv8zUmIE5ssURPY86A==
+      integrity: sha512-DXmgi67G7gE/dS++uthQVJoxyoNhSr2Vv3NQOpt5Hy1qoUjhzoDCA00A8anIPaO4BWlOHnnZJvkuGa+6V4z2SA==
   /ieee754/1.2.1:
     dev: true
     resolution:
@@ -1044,5 +1044,5 @@ packages:
     resolution:
       integrity: sha1-x+sXyT4RLLEIb6bY5R+wZnt5pfk=
 specifiers:
-  hugo-extended: ^0.81.0
+  hugo-extended: ^0.82.0
   rimraf: ^3.0.2
