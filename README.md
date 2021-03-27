@@ -6,9 +6,8 @@ This scaffold allow for a clean, organised content management, separated from th
 
 #### Folders Tree
 
-![Source tree](.github/PICS/source-tree.png)
 
-When first cloned, the scaffold folders tree should appear as the above image (for the gorgeous matching icons, just install [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)):
+When first cloned, the scaffold folders tree should appear as below:
 
 - build/
 - public/
