@@ -28,14 +28,15 @@ archetypeDir: "src/config/_types"
 
 # --------------------------------- includes --------------------------------- #
 assetDir: "src/include/assets"
-themesDir: "src/include/themes"
+staticDir: "src/include/static"
+themesDir: "themes"
 
 # ------------ all site related content folders lives under 'site' ------------ #
 i18nDir: "src/site/locales"
 contentDir: "src/site/content"
 dataDir: "src/site/data"
 layoutDir: "src/site/layouts"
-staticDir: "src/site/static"
+
 
 
 # ---------------------------------- output ---------------------------------- #
