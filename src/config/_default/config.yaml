@@ -2,14 +2,14 @@
 # Configuration
 # ==============================================================================
 title: "A great title!"
-theme: ""
+theme: "chisel"
 
 # ==============================================================================
 # Locales
 # ==============================================================================
 defaultContentLanguage: "en"
 defaultContentLanguageInSubDir: true
-enableMissingTranslationPlaceholders: false
+enableMissingTranslationPlaceholders: true
 hasCJKLanguage: false
 removePathAccents: true
 
