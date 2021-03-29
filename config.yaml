@@ -1,18 +1,3 @@
-# ---------------------------------- render ---------------------------------- #
-canonifyURLs: true
-uglyurls: false
-disableAliases: false
-disableHugoGeneratorInject: false
-disableKinds: []
-disableLiveReload: false
-enableEmoji: true
-enableGitInfo: false
-ignoreCache: true
-ignoreFiles: []
-metaDataFormat: "yaml"
-verbose: true
-watch: true
-
 # ----------------------------------- build ---------------------------------- #
 cleanDestinationDir: true
 buildDrafts: false

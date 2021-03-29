@@ -1,3 +1,5 @@
+dependencies:
+  autoprefixer: 10.2.5
 devDependencies:
   hugo-extended: 0.82.0
   rimraf: 3.0.2
@@ -21,6 +23,22 @@ packages:
       node: '>=4'
     resolution:
       integrity: sha1-+S5yIzBW38aWlHJ0nCZ72wRrHXA=
+  /autoprefixer/10.2.5:
+    dependencies:
+      browserslist: 4.16.3
+      caniuse-lite: 1.0.30001204
+      colorette: 1.2.2
+      fraction.js: 4.0.13
+      normalize-range: 0.1.2
+      postcss-value-parser: 4.1.0
+    dev: false
+    engines:
+      node: ^10 || ^12 || >=14
+    hasBin: true
+    peerDependencies:
+      postcss: ^8.1.0
+    resolution:
+      integrity: sha512-7H4AJZXvSsn62SqZyJCP+1AWwOuoYpUfK6ot9vm0e87XD6mT8lDywc9D9OTJPMULyGcvmIxzTAMeG2Cc+YX+fA==
   /balanced-match/1.0.0:
     dev: true
     resolution:
@@ -84,6 +102,19 @@ packages:
     dev: true
     resolution:
       integrity: sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==
+  /browserslist/4.16.3:
+    dependencies:
+      caniuse-lite: 1.0.30001204
+      colorette: 1.2.2
+      electron-to-chromium: 1.3.701
+      escalade: 3.1.1
+      node-releases: 1.1.71
+    dev: false
+    engines:
+      node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7
+    hasBin: true
+    resolution:
+      integrity: sha512-vIyhWmIkULaq04Gt93txdh+j02yX/JzlyhLYbV3YQCn/zvES3JnY7TifHHvvr1w5hTDluNKMkV05cs4vy8Q7sw==
   /buffer-alloc-unsafe/1.1.0:
     dev: true
     resolution:
@@ -122,6 +153,10 @@ packages:
     dev: true
     resolution:
       integrity: sha1-DYCIAbY0KtM8kd+dC0TcCbkeXD0=
+  /caniuse-lite/1.0.30001204:
+    dev: false
+    resolution:
+      integrity: sha512-JUdjWpcxfJ9IPamy2f5JaRDCaqJOxDzOSKtbdx4rH9VivMd1vIzoPumsJa9LoMIi4Fx2BV2KZOxWhNkBjaYivQ==
   /caw/2.0.1:
     dependencies:
       get-proxy: 2.1.0
@@ -139,6 +174,10 @@ packages:
     dev: true
     resolution:
       integrity: sha1-0dyXOSAxTfZ/vrlCI7TuNQI56Ws=
+  /colorette/1.2.2:
+    dev: false
+    resolution:
+      integrity: sha512-MKGMzyfeuutC/ZJ1cba9NqcNpfeqMUcYmyF1ZFY6/Cn7CNSAKx6a+s48sqLqyAiZuaP2TcqMhoo+dlwFnVxT9w==
   /commander/2.20.3:
     dev: true
     resolution:
@@ -281,12 +320,22 @@ packages:
     dev: true
     resolution:
       integrity: sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
+  /electron-to-chromium/1.3.701:
+    dev: false
+    resolution:
+      integrity: sha512-Zd9ofdIMYHYhG1gvnejQDvC/kqSeXQvtXF0yRURGxgwGqDZm9F9Fm3dYFnm5gyuA7xpXfBlzVLN1sz0FjxpKfw==
   /end-of-stream/1.4.4:
     dependencies:
       once: 1.4.0
     dev: true
     resolution:
       integrity: sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q==
+  /escalade/3.1.1:
+    dev: false
+    engines:
+      node: '>=6'
+    resolution:
+      integrity: sha512-k0er2gUkLf8O0zKJiAhmkTnJlTvINGv7ygDNPbeIsX/TJjGJZHuh9B2UxbsaEkmlEo9MfhrSzmhIlhRlI2GXnw==
   /escape-string-regexp/1.0.5:
     dev: true
     engines:
@@ -406,6 +455,10 @@ packages:
       node: '>=6'
     resolution:
       integrity: sha512-P8WRou2S+oe222TOCHitLy8zj+SIsVJh52VP4lvXkaFVnOFFdoWv1H1Jjvel1aI6NCFOAaeAVm8qrI0odiLcww==
+  /fraction.js/4.0.13:
+    dev: false
+    resolution:
+      integrity: sha512-E1fz2Xs9ltlUp+qbiyx9wmt2n9dRzPsS11Jtdb8D2o+cC7wr9xkkKsVKJuBX0ST+LVS+LhLO+SbLJNtfWcJvXA==
   /from2/2.3.0:
     dependencies:
       inherits: 2.0.4
@@ -651,6 +704,16 @@ packages:
     dev: true
     resolution:
       integrity: sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
+  /node-releases/1.1.71:
+    dev: false
+    resolution:
+      integrity: sha512-zR6HoT6LrLCRBwukmrVbHv0EpEQjksO6GmFcZQQuCAy139BEsoVKPYnf3jongYW83fAa1torLGYwxxky/p28sg==
+  /normalize-range/0.1.2:
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    resolution:
+      integrity: sha1-LRDAa9/TEuqXd2laTShDlFa3WUI=
   /normalize-url/2.0.1:
     dependencies:
       prepend-http: 2.0.0
@@ -780,6 +843,10 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
+  /postcss-value-parser/4.1.0:
+    dev: false
+    resolution:
+      integrity: sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
   /prepend-http/2.0.0:
     dev: true
     engines:
@@ -1044,5 +1111,6 @@ packages:
     resolution:
       integrity: sha1-x+sXyT4RLLEIb6bY5R+wZnt5pfk=
 specifiers:
+  autoprefixer: ^10.2.5
   hugo-extended: ^0.82.0
   rimraf: ^3.0.2

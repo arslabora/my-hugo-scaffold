@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="531.49603"
+   height="531.49603"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logoAS.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"
+   inkscape:export-filename="/Users/andrea/Liuteria/atelier/logos/ver1.0/logoAS-INPI.png"
+   inkscape:export-xdpi="400.09"
+   inkscape:export-ydpi="400.09">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="SquareS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="SquareS"
+       style="overflow:visible">
+      <path
+         id="path3266"
+         d="M -5,-5 -5,5 5,5 5,-5 -5,-5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3192"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path3257"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path3219"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-20.0497"
+     inkscape:cy="-120.53826"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1270"
+     inkscape:window-height="976"
+     inkscape:window-x="1318"
+     inkscape:window-y="158"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0"
+     units="cm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-119.10273,-57.550856)">
+    <g
+       id="g3800"
+       transform="translate(10,-12)">
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:0.01%;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Ultra-Light';fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot6796"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6798"><rect
+             y="535.93359"
+             x="622.14288"
+             height="147.85715"
+             width="110.71429"
+             id="rect6800" /></flowRegion><flowPara
+           id="flowPara6802"
+           style="font-size:72px;line-height:1.25"> </flowPara></flowRoot>      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         sodipodi:nodetypes="cscsscssscsscsscsscsssccccsscsscsscssscssscsscscc"
+         d="m 489.67463,244.72482 c 12.43926,-13.3289 23.55155,-27.95189 32.66272,-43.76307 2.19509,-3.80928 4.15208,-7.75088 6.22812,-11.6263 4.52782,-9.25638 8.54419,-18.76376 11.20142,-28.7364 0.90965,-3.41393 2.57602,-8.0237 0.76642,-11.65961 -0.6883,-1.38296 -2.19027,-2.17901 -3.28543,-3.26851 -2.10623,-0.81172 -4.12241,-1.91414 -6.31869,-2.4352 -7.08058,-1.67983 -16.55641,-1.78625 -23.51821,-1.6805 -13.03315,0.19801 -25.88624,1.24994 -38.78982,3.20548 -8.04978,1.21995 -16.00846,2.97962 -24.01269,4.46943 -26.06076,5.87126 -51.5523,13.73059 -75.37376,25.98623 -1.53241,0.7884 -2.48034,2.4088 -3.86924,3.42902 -29.43232,21.61958 -9.26015,4.50204 -35.13102,28.00205 -4.18483,5.1747 -8.70333,10.09651 -12.55447,15.52415 -14.01643,19.75415 -23.33867,44.02141 -24.85486,68.29785 -0.35808,5.73313 0.26711,11.4855 0.40065,17.22826 1.45967,5.36008 2.19634,10.97169 4.37897,16.08023 8.20466,19.2034 28.18365,35.15737 47.13057,42.90964 4.78623,1.9583 9.90469,2.97816 14.85703,4.46724 5.29533,0.70416 10.54903,1.88144 15.88597,2.11245 17.68498,0.7655 35.55446,-2.9044 52.06166,-8.9855 5.5608,-2.04854 10.87558,-4.71162 16.33025,-7.02797 1.85353,-0.78711 -3.68433,1.62675 -5.5265,2.44011 3.88766,-2.54372 7.77532,-5.08744 11.66295,-7.63116 l 38.92183,-18.13148 c -4.0634,2.6798 -5.35979,6.28195 -9.42319,8.96174 -16.4757,8.47498 -52.55475,27.98557 -70.26819,34.19702 -16.91417,5.93116 -35.13635,9.54157 -53.14859,8.53443 -5.46015,-0.30531 -10.82475,-1.56534 -16.23712,-2.34799 -4.97773,-1.6391 -10.12534,-2.83183 -14.93319,-4.91729 -19.40132,-8.41559 -39.44245,-24.78705 -47.82071,-44.66078 -2.23175,-5.29383 -2.98952,-11.09431 -4.48428,-16.64147 -0.11131,-5.88519 -0.69029,-11.78011 -0.33395,-17.65556 1.50493,-24.81388 10.61194,-49.39314 24.94342,-69.61814 3.95945,-5.58771 8.59357,-10.66533 12.89035,-15.998 5.46331,-4.98465 10.61887,-10.32913 16.38996,-14.954 18.45931,-14.79304 37.5373,-24.44445 59.02435,-35.33045 7.81986,-3.96181 15.8495,-7.53775 24.03841,-10.66634 17.85138,-6.82018 33.53221,-10.37187 51.98127,-15.19082 8.22664,-1.58688 16.41294,-3.39932 24.67987,-4.76066 14.65567,-2.41341 26.26334,-3.68485 40.87105,-4.23543 7.63916,-0.28793 17.94726,-0.55357 25.69933,1.40352 2.59628,0.65545 4.92877,2.09479 7.39315,3.14218 1.32694,1.5627 3.15488,2.81178 3.98086,4.68812 1.93738,4.40104 0.0511,8.94583 -1.2026,13.08763 -3.10395,10.25475 -7.44771,20.03669 -12.21098,29.61953 -2.04908,3.92077 -3.96545,7.91379 -6.1473,11.76227 -8.59166,15.15444 -19.00689,29.16193 -29.5247,43.0045 -7.53215,1.8438 -14.3471,2.7096 -25.41109,9.36955 z"
+         id="path6736"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.57540083;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         d="m 492.21401,331.99873 c 1.48275,2.61699 2.76504,5.27883 3.2417,8.36205 0.74138,0.87907 -0.66485,3.14432 -0.31936,3.99555 4.54428,11.19656 7.47641,13.69545 13.72006,25.26715 3.07526,5.69955 5.80275,11.63001 8.70413,17.44501 2.2883,5.94321 5.00691,11.69744 6.86488,17.82968 5.10123,16.83669 6.53915,34.51405 1.83207,51.69713 -3.82245,13.95391 -7.41737,17.91752 -14.65773,29.85982 -3.64464,4.05591 -6.97214,8.51196 -10.93389,12.16773 -4.109,3.79166 -8.47358,7.31233 -13.17756,10.08159 -21.07655,12.40783 -30.60132,18.28581 -51.7335,21.86451 -19.6658,3.33037 -24.31017,1.93036 -44.49556,0.88417 -46.25223,-6.63294 -90.91416,-23.09828 -133.1496,-45.16202 -8.46625,-4.42276 -16.69772,-9.3992 -25.04657,-14.09881 -7.57335,-5.08155 -15.39246,-9.7214 -22.72009,-15.24465 -24.0342,-18.11596 -47.04001,-42.08715 -57.01367,-73.65483 -2.14846,-6.80006 -2.87881,-14.07056 -4.3182,-21.10587 0.40234,-7.25368 -0.14576,-14.656 1.20702,-21.76108 3.23643,-16.99831 10.30312,-29.2323 20.53258,-42.0638 5.84555,-7.33246 12.76159,-13.47495 19.14237,-20.21241 l 16.0657,-6.4745 c -8.44078,5.42911 -14.74202,12.44373 -20.35798,19.50158 -9.75412,12.25851 -14.76941,24.34155 -18.03601,40.55311 -1.39171,6.90685 -0.94633,14.12742 -1.41945,21.19111 1.30719,6.92834 1.91083,14.07562 3.92156,20.78499 9.32108,31.10207 31.55307,55.45873 54.87767,73.63218 7.15813,5.57732 14.83076,10.25875 22.24616,15.3881 8.27835,4.70527 16.43541,9.694 24.83501,14.11581 25.8744,13.62112 53.09877,25.3105 80.79543,33.23641 22.06265,6.31366 31.15181,7.0282 53.27678,10.4341 20.63388,0.56708 25.17007,1.89473 45.22075,-2.09949 6.39698,-1.27434 12.46338,-4.40437 18.9062,-5.33771 0.9823,-0.1423 -2.47905,3.34844 -1.60085,2.8308 12.10512,-7.13531 14.47222,-11.04034 24.22704,-21.39016 7.23961,-11.56431 10.7835,-15.40476 14.81756,-28.94362 4.97665,-16.70232 4.06578,-34.14459 -0.70886,-50.77137 -1.74728,-6.08464 -4.41276,-11.78148 -6.61915,-17.67222 -3.00468,-5.67073 -5.71017,-11.55853 -9.01404,-17.01222 -12.0529,-19.89584 -6.9053,-8.43444 -18.52289,-25.28747 -0.20841,-0.30232 1.18633,-2.3789 0.7663,-2.93418 -0.10338,-2.7159 -1.36282,-5.02367 -2.7737,-7.15692 l 21.41769,-12.73925 z"
+         id="path6738"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.57540083;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:nodetypes="ccsscsscssscscsscssccsscsscsscssscsscssccc"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         d="m 379.4475,140.46263 c -0.99403,22.81805 -6.75231,45.299 -11.88233,67.38753 -7.30643,29.54652 -13.55898,59.41635 -21.46095,88.79413 -1.69728,6.31025 -12.20515,41.87228 -14.0072,47.99465 -10.39548,32.45467 -22.29504,64.51301 -36.47228,95.30918 -4.66057,10.12382 -14.87257,29.95615 -20.038,40.10349 -10.95313,19.78907 -25.53533,42.40336 -38.3767,60.80528 -9.03807,5.21755 -14.985,2.35762 -26.56208,7.44658 13.87393,-18.33997 27.41979,-36.97652 38.77799,-57.26842 5.28921,-10.03236 16.03093,-30.17318 20.80668,-40.21391 14.52973,-30.54807 26.46274,-62.53929 36.71415,-94.98683 2.62288,-9.01677 11.25671,-38.50927 13.7229,-47.73079 7.77823,-29.08434 13.74983,-58.67291 20.19285,-88.11414 3.66241,-18.13794 3.526,-16.14627 6.06899,-33.40983 0.7295,-4.95219 2.21168,-15.48014 2.4236,-21.09502 0.11031,-2.92157 -0.31478,-7.13791 -0.5734,-10.18528 l 30.66578,-14.83662 z"
+         id="path6758"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.91508019;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:nodetypes="ccscsccccscscsscc"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         sodipodi:nodetypes="csscsscsssccccssscssccc"
+         d="m 514.34448,528.98381 c -0.64975,-0.40864 -1.25706,-0.88133 -1.94924,-1.22592 -3.25738,-1.62154 -2.44837,-0.56447 -5.85709,-2.55185 -5.45452,-3.18022 -8.31393,-7.30594 -12.60493,-11.68306 -2.09616,-2.21579 -5.55307,-3.73513 -7.59275,-5.99508 -7.73185,-8.56689 -8.62227,-10.56081 -17.36671,-18.97693 -13.56391,-13.05471 -30.22034,-24.70231 -44.80297,-36.75148 -6.9585,-5.08927 -13.67994,-10.46613 -20.87555,-15.26778 -8.00049,-5.33869 -16.35806,-10.21178 -24.67282,-15.12652 -20.54749,-12.14531 -35.13616,-20.4642 -57.33497,-30.17351 -28.37164,-12.40915 -36.34932,-13.99275 -66.0087,-23.20893 -43.36964,-11.21331 -21.89424,-6.00819 -64.41097,-15.66854 4.66556,-4.00999 18.92356,-3.21873 29.45678,-6.70309 41.87612,9.96595 20.67527,4.62325 63.58584,16.08401 28.77625,9.14776 38.74248,11.52351 66.45135,23.54571 21.3945,9.28249 38.5381,18.74114 58.53811,30.21125 8.60695,4.93609 17.23559,9.8561 25.55936,15.18805 7.51969,4.81687 14.62617,10.15866 21.93926,15.23796 15.53502,11.95895 31.65366,23.52242 46.03854,36.68482 5.99988,5.48998 12.94823,12.95247 18.80374,18.70938 2.21979,2.18244 4.52486,4.28999 6.78731,6.43499 7.3143,6.20455 14.04992,10.58421 23.26754,13.98745 l -36.95113,7.24907 z"
+         id="path6794"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         d="m 384.3955,115.84596 c 0.83954,3.02234 2.5681,9.2978 3.30643,11.62415 4.71949,14.86999 1.63367,2.81538 6.63278,21.18745 2.94851,10.836 6.57138,26.15799 9.14167,36.75444 8.61483,36.83632 17.07754,73.7789 27.53432,110.08068 5.07855,17.63082 13.49295,43.68588 19.05173,61.17053 11.72843,35.12082 23.04386,70.98108 41.13653,103.10438 10.05708,17.85628 13.09748,20.32493 25.5951,35.80523 16.38766,19.13511 35.75817,34.77938 55.56486,49.55033 l -28.58992,6.37936 c -19.50607,-15.13284 -38.69516,-31.00779 -54.61832,-50.53299 -12.39461,-16.0237 -15.13189,-18.18218 -24.94004,-36.59387 -17.34976,-32.56861 -27.60637,-68.7231 -39.2806,-103.84431 -17.82082,-56.53615 -34.59995,-113.43787 -49.53801,-170.9336 -6.98257,-23.31556 -16.24584,-48.49109 -25.95624,-70.69797 l 34.95971,-3.05381 z"
+         id="path6816"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.40556145;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:nodetypes="csscscsccccscccc"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/andrea/liuteria/atelier/logos/logo.png"
+         id="path6818"
+         d="m 620.90386,332.60733 c 0,135.53604 -109.96114,245.53631 -245.44897,245.53631 -135.48784,0 -245.44898,-110.00027 -245.44898,-245.53631 0,-135.53606 109.96114,-245.536326 245.44898,-245.536326 135.48783,0 245.44897,110.000266 245.44897,245.536326 z"
+         style="fill:none;stroke:#000000;stroke-width:14.70600033;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

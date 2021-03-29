@@ -1,8 +1,10 @@
 # ==============================================================================
 # Configuration
 # ==============================================================================
-title: "A great title!"
-theme: "chisel"
+author: "Andrea Spada"
+theme: "hugo-chisel"
+title: "Liuteria d'Autore"
+keywords: "violin, luthiery, doublebass"
 
 # ==============================================================================
 # Locales
@@ -18,3 +20,19 @@ removePathAccents: true
 # ==============================================================================
 disableKinds:
 enableInlineShortcodes: true
+
+# ---------------------------------------------------------------------------- #
+#                                    render                                    #
+# ---------------------------------------------------------------------------- #
+canonifyURLs: false
+uglyurls: false
+disableAliases: false
+disableHugoGeneratorInject: false
+disableLiveReload: false
+enableEmoji: true
+enableGitInfo: false
+ignoreCache: true
+ignoreFiles: []
+metaDataFormat: "yaml"
+verbose: true
+watch: true

@@ -2,25 +2,29 @@
 en:
   languageName: "English"
   locale: "en-GB"
-  weight: 1
+  weight: 1  
+  description: "Maker and Restorer of Fine String Instruments"
   
 pt:
   languageName: "Portugues"
   locale: "pt-BR"
-  weight: 2
+  weight: 2  
+  description: "Maker and Restorer of Fine String Instruments"
   
 it:
   languageName: "Italiano"
   locale: "it-IT"
-  weight: 3
+  weight: 3  
+  description: "Maker and Restorer of Fine String Instruments"
   
 es:
   languageName: "Español"
   locale: "es-ES"
-  weight: 4
+  weight: 4  
+  description: "Maker and Restorer of Fine String Instruments"
   
 fr:
   languageName: "Français"
   locale: "fr-FR"
-  weight: 5
-  
+  weight: 5  
+  description: "Maker and Restorer of Fine String Instruments"  
